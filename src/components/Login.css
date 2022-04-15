@@ -1,0 +1,43 @@
+.form-login input {
+	border: 2px solid black !important;
+}
+.form-login button {
+	background-color: red;
+	border: 2px solid red;
+	font-weight: bold;
+}
+.trainers {
+ 
+    height: 250px;
+    width: 500px;
+    background-image: white;
+}
+
+.img-login{
+
+    height: 250px;
+    width: 450px;
+}
+
+.foo{
+
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.pikachu {
+
+    height: 80px;
+    width: 100px;
+}
+
+.d {
+
+background-color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

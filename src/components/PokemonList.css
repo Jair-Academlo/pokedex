@@ -1,0 +1,78 @@
+.U{
+
+    color: red;
+    
+}
+
+.barras{
+    margin: 10px;
+    background-color: whitesmoke;
+}
+
+
+
+
+
+.bara{
+
+  
+    width: 100%;
+    color: black;
+    padding: 15px;
+    margin: 15px;
+  
+}
+
+.Search{
+
+    padding-left: 25px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    
+
+}
+
+.Stext{
+
+    padding: auto;
+    margin: 10px;
+    height: 30px;
+    width: 30%;
+    border-radius: 20px;
+    color:brown;
+    text-align: center;
+    background-color: whitesmoke;
+    
+   
+}
+
+.Stype{
+
+    background-color: black;
+    width: 40%;
+    display: flex;
+    flex-direction: row-reverse;
+
+    
+
+}
+
+.Sselect{
+
+    
+    margin: 10px;
+    height: 30px;
+    width: 30%;
+    border-radius: 20px;
+    color: purple;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+
+.Pokemon-cards{
+
+margin-left: 105px;
+
+}
